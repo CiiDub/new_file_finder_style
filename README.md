@@ -26,9 +26,6 @@ Magnum Opus 2 will be -obviously I think- the title of my memoir.
 
 Hint: Because the file is selected in the Finder __⌘↓__ will open the file in it’s default app.
 
-<p align=”center”>
-	<img src="nf.gif" alt="Animated Gif of the workflow in progress" />
-	<br />
-	<br />
-	<img src="layout.png" alt=​"Layout of workflow." />
-<p>
+![Animated Gif of the workflow in progress](nf.gif)
+
+![Layout of workflow. ](layout.png)
