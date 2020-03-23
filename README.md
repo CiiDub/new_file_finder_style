@@ -4,8 +4,8 @@ This is an [Alfred](Alhttps://www.alfredapp.comfred)  workflow that makes a new 
 
 __It works with three commands:__
 
-1. > New File
-2. > nf
+1. New File
+2. nf
 3. ⌘ ⌥ N
 
 These will each create a text file in the front most open folder or on the Finder desktop.
@@ -27,7 +27,9 @@ Magnum Opus 2 will be -obviously I think- the title of my memoir.
 Hint: Because the file is selected in the Finder __⌘↓__ will open the file in it’s default app.
 
 <center>
+
 ![Animated Gif of the workflow in progress](nf.gif)
 
 ![Layout of workflow. ](layout.png)
+
 </center>
