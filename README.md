@@ -16,7 +16,7 @@ The default name of the file is “untitled”.
 
 __⌘ ⌥ N__ can not take a parameter so the file will be created, with it’s name “untitled” selected. Just start typing to change it.
 
-__New File__ & __nf__ can take a name as an optional parameter. So `nf magnum opus.txt` will create a file name “magnum opus.txt” with the name selected.
+__New File__ & __nf__ can take a name as an optional parameter. So `nf magnum opus.txt` will create a file name “magnum opus.txt”.
 
 If you make a file with a name that is already in use in that folder the name will be appended with “ 2”, then “ 3” and so on. 
 
