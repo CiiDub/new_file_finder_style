@@ -22,8 +22,6 @@ If you make a file with a name that is already in use in that folder the name wi
 
 It respects your file extension while dealing with duplicates. So if  “magnum opus.txt” exists  then “magnum opus 2.txt” will be created.
 
-Magnum Opus 2 will be -obviously I think- the title of my memoir.
-
 Hint: Because the file is selected in the Finder __⌘↓__ will open the file in it’s default app.
 
 New File _Finder Style_ also has an external trigger. This allows the workflow to be triggered from Applescript. With the trigger ID of __trigger.nf__ from the workflow ID of __com.buttergut.nf__
