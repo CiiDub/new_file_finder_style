@@ -39,3 +39,5 @@ Hint: I used this to make an Automator Quick Action, so that I can have a button
 ![Animated Gif of the workflow in progress](nf.gif)
 
 ![Layout of workflow. ](layout.png)
+
+![Quick Action in Finder. ](quick_action.png)
