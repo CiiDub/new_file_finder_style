@@ -24,6 +24,10 @@ It respects your file extension while dealing with duplicates. So if  “magnum 
 
 Hint: Because the file is selected in the Finder __⌘↓__ will open the file in it’s default app.
 
+![Animated Gif of the workflow in progress](nf.gif)
+
+![Layout of workflow. ](layout.png)
+
 New File _Finder Style_ also has an external trigger. This allows the workflow to be triggered from Applescript. With the trigger ID of __trigger.nf__ from the workflow ID of __com.buttergut.nf__
 
 ```AppleScript
@@ -33,9 +37,5 @@ end tell
 ```
 
 Hint: I used this to make an Automator Quick Action, so that I can have a button to make text files from the Finder. Just drop the “with argument...” bit at the end of the line.
-
-![Animated Gif of the workflow in progress](nf.gif)
-
-![Layout of workflow. ](layout.png)
 
 ![Quick Action in Finder. ](quick_action.png)
