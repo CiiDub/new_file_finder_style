@@ -26,6 +26,16 @@ Magnum Opus 2 will be -obviously I think- the title of my memoir.
 
 Hint: Because the file is selected in the Finder __⌘↓__ will open the file in it’s default app.
 
+New File _Finder Style_ also has an external trigger. This allows the workflow to be triggered from Applescript. With the trigger ID of __trigger.nf__ from the workflow ID of __com.buttergut.nf__
+
+```AppleScript
+tell application id "com.runningwithcrayons.Alfred"
+	run trigger "trigger.nf" in workflow "com.buttergut.nf" with argument "test"
+end tell
+```
+
+Hint: I used this to make an Automator Quick Action, so that I can have a button to make text files from the Finder. Just drop the “with argument...” bit at the end of the line.
+
 ![Animated Gif of the workflow in progress](nf.gif)
 
 ![Layout of workflow. ](layout.png)
