@@ -36,6 +36,8 @@ tell application id "com.runningwithcrayons.Alfred"
 end tell
 ```
 
-Hint: I used this to make an Automator Quick Action, so that I can have a button to make text files from the Finder. Just drop the “with argument...” bit at the end of the line.
+Hint: I used this to make the New File Button in the Finder. Just drop the “with argument...” bit at the end of the line and it defaults to “untitled”.
 
-![Quick Action in Finder. ](quick_action.png)
+You can take a look at the button here: [<#link_text#>](https://github.com/CiiDub/new_file_finder_button)
+
+![New File Finder button](finder_button.png)
