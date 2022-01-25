@@ -38,6 +38,6 @@ end tell
 
 Hint: I used this to make the New File Button in the Finder. Just drop the “with argument...” bit at the end of the line and it defaults to “untitled”.
 
-You can take a look at the button here: [<#link_text#>](https://github.com/CiiDub/new_file_finder_button)
+You can take a look at the button here: [New File Finder Button](https://github.com/CiiDub/new_file_finder_button)
 
 ![New File Finder button](finder_button.png)
