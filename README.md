@@ -2,6 +2,8 @@
 
 This is an [Alfred](Alhttps://www.alfredapp.comfred)  workflow that makes a new text file in the style of the Mac Finder.
 
+This version requires Alfred 5
+
 __It works with three commands:__
 
 1. New File
